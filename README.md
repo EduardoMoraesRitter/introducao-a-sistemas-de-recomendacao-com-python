@@ -10,3 +10,8 @@ https://grouplens.org/datasets/movielens/latest/
 
 
 Heurística de recomendação e entendendo o que é colaboração
+
+
+#1º tipo de recomendação - medida de popularidade por item
+quando nao tenho informação sobre o usuario novo eu recomendo os itens mais populares
+
