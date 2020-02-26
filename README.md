@@ -28,3 +28,34 @@ qual numero minimo de votos necessarios?
 
 
 #3º Recomendação baseada em similaridade de genero
+filtrar os mesmo generos que o usuario ja assistiu, sem saber a nota em si.
+
+#4º Usuarios similares - User Based
+tanto que gostaram quanto nao gostaram de filmes, calcular a distancia Euclidiana
+
+#5º KNN identifica o vizinho mais próximo e faz uma busca de valores parecidos que estejam próximos.
+
+---
+
+tipos de recomendacao:
+Collaborative filtering - filtragem colaborativa, usando informaçoes de todos os usuarios do sistema
+
+Content base filtering - filtragem por conteudo, por genero e preferencia do usuario, criando perfil do usuario
+
+
+tipos de abordagem:
+um regresao probabilidade
+classificação
+hanking
+
+
+caracteristicar para medir o sistema recomendado, beyond Accuracy
+divercidade
+
+lista de recomendacoes:
+Populares, mais vistos
+Melhores Notas
+Pq vc viu tal
+Pq vc deu uma nota pra tal
+filmes que vc ja viu, assita novamente
+continue assistindo
